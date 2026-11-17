@@ -19,11 +19,8 @@ Registros epidemiológicos oficiales de vigilancia en salud pública (SIVIGILA -
 Gaussian Naive Bayes, Regresión Logística, Árbol de Decisión, Random Forest, Support Vector Machine (Linear, RBF, Poly, Sigmoid), Red Neuronal Multicapa (MLP / Deep Neural Network), GridSearchCV, RandomizedSearchCV, Stratified K-Fold Cross-Validation, PCA, t-SNE, K-Means, Método del Codo, Clustering Jerárquico Aglomerativo (Ward), DBSCAN.
 
 ## Enlaces
-- **Repositorio:** [GitHub - Proyecto Dengue IA I](PEGA_AQUI_EL_LINK_DE_TU_REPO_DE_LA_BARRA_DEL_NAVEGADOR)
+- **Repositorio:** [GitHub - Proyecto Dengue IA I](https://github.com/juliansaav12/Proyecto-funcional-IA-)
 - **Código (Notebooks):**
-  - [Notebook 1: Dataset 2025](notebooks/01_modelos_dataset_2025.ipynb)
-  - [Notebook 2: Generalización Temporal 2022–2025](notebooks/02_generalizacion_2022_2025.ipynb)
-  - [Notebook 3: Dataset Clínico de Síntomas y No Supervisado](notebooks/03_dataset_sintomas_entrega_3.ipynb)
-- **Presentación (Diapositivas):** [Ver Diapositivas PDF](docs/diapositivas_finales.pdf)
+  - [Notebook: Proyecto-Dengue](Proyecto-Dengue.ipynb)
 - **Video en YouTube (Máx. 5 min):** [Ver Video Sustentación](PEGA_AQUI_EL_LINK_DE_YOUTUBE_CUANDO_LO_TENGAN)
 - **Archivo de Video (.mp4):** [Descargar Archivo de Video](PEGA_AQUI_EL_LINK_DE_DRIVE_DEL_MP4)
