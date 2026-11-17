@@ -11,7 +11,8 @@ Oscar Julián Saavedra (2241931), Jair Andres Lagos Pereira (2204130), Roberto J
 Predecir la necesidad de hospitalización (`PAC_HOS`) en pacientes con dengue en Colombia a partir de factores sociodemográficos, territoriales y síntomas clínicos, priorizando la exhaustividad (Recall) para reducir falsos negativos.
 
 ## Dataset
-Registros epidemiológicos oficiales de vigilancia en salud pública (SIVIGILA - Dengue, Colombia), organizados en tres conjuntos depurados: cohorte nacional 2025 (`120.564` registros, `35` variables), consolidado multianual 2022–2025 (`501.720` registros en 2022–2024 para generalización temporal) y conjunto clínico con síntomas de Medellín (`53.813` registros, `28` variables predictoras con `16` síntomas binarizados y `20.97%` de prevalencia hospitalaria).
+- **Datasets Sociodemográficos y Territoriales:** [AQUI VA LA PARTE DE LOS SOCIODEMOGRAFICOS]
+- **Dataset Clínico de Síntomas (`Dataset3_SIVIGILA_Sintomas.csv`):** Registros epidemiológicos de dengue (SIVIGILA, Medellín 2010) con `53.813` pacientes depurados (`DELTA_T >= 0`), pasando de `38` columnas originales a `28` variables predictoras + objetivo `PAC_HOS` (`79.03%` ambulatorios vs. `20.97%` hospitalizados), tras eliminar identificadores y fugas de datos como `clas_dengue` y `comuna`. Incluye `16` síntomas clínicos binarizados (`0/1`), edad en años (`EDAD_A`), días de evolución (`DELTA_T`), sexo, desplazamiento, régimen de salud (One-Hot) y `semana` sin fuga de datos, con partición estratificada `70/30` (`37.669` entrenamiento / `16.144` prueba, `random_state=666`).
 
 - **Enlace de descarga del dataset:** [Descargar Datasets SIVIGILA](https://drive.google.com/drive/folders/14BLk4EUQeCIBEAWmkMLMtcvApb0oUdtg?usp=sharing)
 
