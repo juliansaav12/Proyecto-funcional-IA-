@@ -21,6 +21,6 @@ Gaussian Naive Bayes, Regresión Logística, Árbol de Decisión, Random Forest,
 ## Enlaces
 - **Repositorio:** [GitHub - Proyecto Dengue IA I](https://github.com/juliansaav12/Proyecto-funcional-IA-)
 - **Código (Notebooks):**
-  - [Notebook: Proyecto-Dengue](Proyecto-Dengue.ipynb)
-- **Video en YouTube (Máx. 5 min):** [Ver Video Sustentación](PEGA_AQUI_EL_LINK_DE_YOUTUBE_CUANDO_LO_TENGAN)
-- **Archivo de Video (.mp4):** [Descargar Archivo de Video](PEGA_AQUI_EL_LINK_DE_DRIVE_DEL_MP4)
+  - [Notebook: Proyecto-Dengue](notebooks/Proyecto-Dengue.ipynb)
+- **Video en YouTube:** [Ver Video Sustentación](PEGA_AQUI_EL_LINK_DE_YOUTUBE_CUANDO_LO_TENGAN)
+- **Archivo de Video (.mp4):** [Descargar Archivo de Video](https://drive.google.com/drive/folders/1AFRlBjTgpxH60yd9pRKG5NFAw4fmDWF4?usp=sharing)
