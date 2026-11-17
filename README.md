@@ -13,7 +13,7 @@ Predecir la necesidad de hospitalización (`PAC_HOS`) en pacientes con dengue en
 ## Dataset
 Registros epidemiológicos oficiales de vigilancia en salud pública (SIVIGILA - Dengue, Colombia), organizados en tres conjuntos depurados: cohorte nacional 2025 (`120.564` registros, `35` variables), consolidado multianual 2022–2025 (`501.720` registros en 2022–2024 para generalización temporal) y conjunto clínico con síntomas de Medellín (`53.813` registros, `28` variables predictoras con `16` síntomas binarizados y `20.97%` de prevalencia hospitalaria).
 
-- **Enlace de descarga del dataset:** [Descargar Datasets SIVIGILA](PEGA_AQUI_TU_LINK_DE_DRIVE_DEL_DATASET)
+- **Enlace de descarga del dataset:** [Descargar Datasets SIVIGILA](https://drive.google.com/drive/folders/14BLk4EUQeCIBEAWmkMLMtcvApb0oUdtg?usp=sharing)
 
 ## Modelos
 Gaussian Naive Bayes, Regresión Logística, Árbol de Decisión, Random Forest, Support Vector Machine (Linear, RBF, Poly, Sigmoid), Red Neuronal Multicapa (MLP / Deep Neural Network), GridSearchCV, RandomizedSearchCV, Stratified K-Fold Cross-Validation, PCA, t-SNE, K-Means, Método del Codo, Clustering Jerárquico Aglomerativo (Ward), DBSCAN.
